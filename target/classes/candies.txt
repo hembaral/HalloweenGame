@@ -1,0 +1,31 @@
+M&M's|7|American
+Reese's Cups|6|American
+Skittles|6|American
+Snickers|7|American
+Hot Tamales|5|American
+Sour Patch|4|American
+Starburst|3|American
+Candy Corn|2|American
+Big Turk|7|Canada
+Maynards Wine Gums|6|Canada
+Aero Bar|6|Canada
+Coffee Crisp|5|Canada
+Smarties|6|Canada
+Thrills Gum|2|Canada
+Parle Melody|7|India
+Kismi|6|India
+Pulse|4|India
+Alpenliebe|4|India
+Coffy Bite|2|India
+Candyman|1|India
+Candy Cane|7|France
+MACARONS|5|France
+TATIN CAKE|4|France
+Cadbury Dairy Milk|7|UK
+Lion Bar|5|UK
+Wine Gums|6|UK
+Flake|5|UK
+Black Jacks and fruit salads|4|UK
+Double Decker|3|UK
+Rock|1|UK
+Rowntrees Fruit Pastilles|2|UK
